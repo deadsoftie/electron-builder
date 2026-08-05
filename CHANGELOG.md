@@ -1,3 +1,17 @@
+# [27.0.0-alpha.7](https://github.com/electron-userland/electron-builder/compare/electron-builder@27.0.0-alpha.6...electron-builder@27.0.0-alpha.7) (2026-08-05)
+
+
+### Bug Fixes
+
+* **app-builder-lib:** don't mutate shared `UpdateInfo.files` when applying GitHub `safeArtifactName` ([#10013](https://github.com/electron-userland/electron-builder/issues/10013)) ([951e177](https://github.com/electron-userland/electron-builder/commit/951e17796d98a72d0058bf629d1ca492f06e50c5))
+
+
+### Features
+
+* offline checksum validation via locally seeded SHASUMS256.txt for air-gapped builds ([#10046](https://github.com/electron-userland/electron-builder/issues/10046)) ([362a01f](https://github.com/electron-userland/electron-builder/commit/362a01f802d4c89d4a586c1704ecd81325f7b2de))
+
+
+
 # [27.0.0-alpha.6](https://github.com/electron-userland/electron-builder/compare/electron-builder@27.0.0-alpha.5...electron-builder@27.0.0-alpha.6) (2026-07-23)
 
 

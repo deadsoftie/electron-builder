@@ -19,6 +19,7 @@
     "@electron-builder/website": "0.0.0"
   },
   "changesets": [
+    "airgapped-seeded-shasums",
     "bitbucket-access-token-auth",
     "chatty-maps-go",
     "chatty-teeth-exist",
@@ -72,6 +73,7 @@
     "real-cycles-refuse",
     "remove-use-system-fpm",
     "retry-windows-batch-file-install",
+    "safe-artifact-name-shared-mutation",
     "serious-forks-live",
     "signtool-concurrency-lock",
     "silly-files-marry",
@@ -91,6 +93,7 @@
     "upset-drinks-sing",
     "v27-breaking-changes-doc-page",
     "v27-linux-unsigned-package-gate",
+    "v27-readiness-security-and-migrate",
     "v27-updater-hash-encoding",
     "v27-updater-legacy-path-sha512-gating",
     "warm-cameras-cross",

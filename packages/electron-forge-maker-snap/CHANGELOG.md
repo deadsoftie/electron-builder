@@ -1,5 +1,21 @@
 # electron-forge-maker-snap
 
+## 27.0.0-alpha.7
+
+### Patch Changes
+
+<details><summary>Updated 1 dependency</summary>
+
+<small>
+
+[`362a01f`](https://github.com/electron-userland/electron-builder/commit/362a01f802d4c89d4a586c1704ecd81325f7b2de) [`951e177`](https://github.com/electron-userland/electron-builder/commit/951e17796d98a72d0058bf629d1ca492f06e50c5) [`b87a0b7`](https://github.com/electron-userland/electron-builder/commit/b87a0b7a533eef1711e600864f2540dc163176d7)
+
+</small>
+
+- `app-builder-lib@27.0.0-alpha.7`
+
+</details>
+
 ## 27.0.0-alpha.6
 
 ### Patch Changes
